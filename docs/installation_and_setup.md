@@ -1,3 +1,7 @@
+---
+outline: [2, 3]
+---
+
 # Installation
 
 ## Official Installation
@@ -29,7 +33,8 @@ your [HeiGIT account](https://account.heigit.org).
 
 ## Further Settings
 
-![Further Settings](/config_service_settings.png)
+
+![Further Settings](/config_service_settings.png "Further settings reloaded")
 
 ### Base URL
 The `Base URL` controls what openrouteservice instance the plugin connects to.
