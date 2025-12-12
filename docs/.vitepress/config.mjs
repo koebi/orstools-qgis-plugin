@@ -23,12 +23,15 @@ export default defineConfig({
         text: 'Processing Tools',
         items: [
           { text: 'Overview', link: '/processing_algorithms/processing_overview' },
-          { text: 'Directions from Points (1)', link: '/processing_algorithms/directions_from_points_1_layer' },
+          { text: 'Directions from 1 Point-Layer', link: '/processing_algorithms/directions_from_points_1_layer' },
           { text: 'Directions from Polylines Layer', link: '/processing_algorithms/directions_from_polylines_layer' },
-          { text: 'Directions from Points (2)', link: '/processing_algorithms/directions_from_points_2_layers' },
+          { text: 'Directions from 2 Point-Layers', link: '/processing_algorithms/directions_from_points_2_layers' },
           { text: 'Isochrones from Point', link: '/processing_algorithms/isochrones_from_point' },
           { text: 'Isochrones from Layer', link: '/processing_algorithms/isochrones_from_layer' },
-          { text: 'Matrix from Layers', link: '/processing_algorithms/matrix_from_layers' }
+          { text: 'Matrix from Layers', link: '/processing_algorithms/matrix_from_layers' },
+          { text: 'Export Network', link: '/processing_algorithms/export_network' },
+          { text: 'Snap from Point', link: '/processing_algorithms/snap_from_point' },
+          { text: 'Snap from Point Layer', link: '/processing_algorithms/snap_from_point_layer' }
         ]
       }
     ],
