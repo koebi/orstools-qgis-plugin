@@ -52,6 +52,10 @@ Since openrouteservice v9.0.0, endpoint names are configurable for local instanc
 
 To get back to the default endpoints used by the public API, use the `Reset Endpoints` button.
 
+### Adding providers
+
+TODO: How to and what to
+ 
 ## Nightly Installation
 
 If you want to use any unreleased feature, you can always install the current development version of the plugin manually.
